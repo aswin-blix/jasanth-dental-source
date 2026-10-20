@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+*.log
+qa/
+.vercel/
+.env*
+!.env.example
+release/
